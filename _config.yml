@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9680511864606615
+  lightness: 0.8896983635536424
+  rhythmicContrast: 0.048212524217797426
+  saturation: 0.8360832804405245
+cta: {}
+layout_spectrum: 0.8380189026507312
+name: Alpine Parrot
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.5099007412517278
