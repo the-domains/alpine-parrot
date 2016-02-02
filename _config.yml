@@ -1,18 +1,31 @@
-analytics: {}
+name: Alpine Parrot
+favicon: null
+layout_spectrum: 0.8380189026507312
+typography_spectrum: 0.5099007412517278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#dadde2'
+    - '#2c3b5c'
+    - '#626368'
+    - '#7c858c'
+    - '#943231'
   brandStrength: 0.9680511864606615
   lightness: 0.8896983635536424
-  rhythmicContrast: 0.048212524217797426
   saturation: 0.8360832804405245
-cta: {}
-layout_spectrum: 0.8380189026507312
-name: Alpine Parrot
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.5099007412517278
+  rhythmicContrast: 0.048212524217797426
+purpose:
+  - name: null
+    item: null
+    url: null
